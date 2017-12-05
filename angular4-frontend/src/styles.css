@@ -3,10 +3,13 @@
 body {
 	font-size: 18px;
 	line-height: 1.58;
-  background: #d53369;
+  /*background: #d53369;
   background: -webkit-linear-gradient(to left, #cbad6d, #d53369);
   background: linear-gradient(to left, #cbad6d, #d53369); 
-  color: #333;
+  color: #333;*/
+  background: peachpuff;
+  background: linear-gradient(to left, #997630, #721031); 
+  color: gray;
 }
 
 h1 {
